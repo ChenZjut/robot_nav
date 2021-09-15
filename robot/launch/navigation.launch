@@ -1,0 +1,3 @@
+<launch>
+    <node name="navigation_node" pkg="robot" typr="navigation_node" output="screen" />
+</launch>
